@@ -33,3 +33,7 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Melis-Pablo&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Melis-Pablo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
