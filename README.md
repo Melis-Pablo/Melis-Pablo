@@ -27,3 +27,9 @@
 <a href="https://en.wikipedia.org/wiki/Notion_(productivity_software)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" style="padding-right:10px;" width="30px" align="left" /></a>
 <a href="https://en.wikipedia.org/wiki/Figma_(software)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" width="30px" align="left" /></a>
 <a href="https://en.wikipedia.org/wiki/Blender_(software)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" width="30px" align="left" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
