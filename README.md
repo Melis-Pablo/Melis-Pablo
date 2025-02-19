@@ -29,9 +29,9 @@
 <a href="https://en.wikipedia.org/wiki/Blender_(software)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" width="30px" align="left" /></a>
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Melis-Pablo/Melis-Pablo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Melis-Pablo/Melis-Pablo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Melis-Pablo/Melis-Pablo/output/github-snake.svg" />
 </picture>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Melis-Pablo&theme=dark&hide_border=false)
