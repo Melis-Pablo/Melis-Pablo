@@ -29,8 +29,8 @@
 <a href="https://en.wikipedia.org/wiki/Blender_(software)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" width="30px" align="left" /></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+	<source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
