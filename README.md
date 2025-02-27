@@ -34,6 +34,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Melis-Pablo/Melis-Pablo/output/github-snake.svg" />
 </picture>
 
-![](user=Melis-Pablo&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Melis-Pablo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Melis-Pablo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
