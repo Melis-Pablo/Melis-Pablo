@@ -9,7 +9,7 @@
 <!-- add style to button -->
 <a href="https://www.melispablo.com" style="display:inline-block; padding:8px 16px; font-size:16px; color:green; background-color:transparent; text-align:center; text-decoration:none; border:2px solid green; border-radius:5px;"> > Portfolio</a>
 
-## 🧰 Languages and Tools
+# 🧰 Languages and Tools
 
 <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" width="30px" align="left" /></a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" width="30px" align="left" /></a>
